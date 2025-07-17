@@ -1,10 +1,12 @@
 <h1>Hi 👋, I'm KHUSHI SHAH</h1>
 <h3>
-I'm:<br><br>
-👩‍💻 AI Developer with hands-on experience in GenAI, LLMs, RAG pipelines, automation (n8n, Zapier), and cloud deployment.<br>
-🧠 Skilled in Python, TensorFlow, PyTorch, LangChain, and building intelligent systems across NLP, CV, and predictive analytics.<br>
-🚀 Passionate about creating scalable AI solutions, optimizing models, and automating workflows for real-world impact.<br>
-🔍 Exploring the intersection of AI, agentic automation, and human-centered tech — always up for innovative collaborations.
+I'm:
+<ul>
+  <li>👩‍💻 AI Developer with hands-on experience in GenAI, LLMs, RAG pipelines, automation (n8n, Zapier), and cloud deployment.</li>
+  <li>🧠 Skilled in Python, TensorFlow, PyTorch, LangChain, and building intelligent systems across NLP, CV, and predictive analytics.</li>
+  <li>🚀 Passionate about creating scalable AI solutions, optimizing models, and automating workflows for real-world impact.</li>
+  <li>🔍 Exploring the intersection of AI, agentic automation, and human-centered tech — always up for innovative collaborations.</li>
+</ul>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahkhushi28k&label=Profile%20views&color=0e75b6&style=flat" alt="shahkhushi28k" /> </p>
@@ -15,8 +17,8 @@ I'm:<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khushishah28k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushishah28k" height="30" width="40" /></a>
-<a href="https://kaggle.com/khushishah28k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khushishah28k" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushi-shah-28k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushishah28k" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/khushishah28k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khushishah28k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
