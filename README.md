@@ -1,13 +1,10 @@
 <h1>Hi 👋, I'm KHUSHI SHAH</h1>
 <h3>
-
-I'm
-
-👩‍💻 AI Developer with hands-on experience in GenAI, LLMs, RAG pipelines, automation (n8n, Zapier), and cloud deployment
-🧠 Skilled in Python, TensorFlow, PyTorch, LangChain, and building intelligent systems across NLP, CV, and predictive analytics
-🚀 Passionate about creating scalable AI solutions, optimizing models, and automating workflows for real-world impact
-🔍 Exploring the intersection of AI, agentic automation, and human-centered tech | Always up for innovative collaborations
-
+I'm:<br><br>
+👩‍💻 AI Developer with hands-on experience in GenAI, LLMs, RAG pipelines, automation (n8n, Zapier), and cloud deployment.<br>
+🧠 Skilled in Python, TensorFlow, PyTorch, LangChain, and building intelligent systems across NLP, CV, and predictive analytics.<br>
+🚀 Passionate about creating scalable AI solutions, optimizing models, and automating workflows for real-world impact.<br>
+🔍 Exploring the intersection of AI, agentic automation, and human-centered tech — always up for innovative collaborations.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahkhushi28k&label=Profile%20views&color=0e75b6&style=flat" alt="shahkhushi28k" /> </p>
