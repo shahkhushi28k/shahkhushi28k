@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm KHUSHI SHAH</h1>
-<h3 align="center">I am a college student with a deep passion for data science and its practical applications, I am constantly immersing myself in the exploration of new tools and techniques to analyze data and uncover meaningful insights that can drive positive change. I have a strong desire to learn from seasoned professionals in the field and actively seek opportunities to collaborate with like-minded individuals to develop innovative solutions using data. My ultimate goal is to expand my skills and gain hands-on experience in the real-world application of data science.</h3>
+<h1>Hi 👋, I'm KHUSHI SHAH</h1>
+<h3>
+I'm an AI Developer with hands-on experience in building real-world solutions using GenAI, LLMs, RAG pipelines, and automation platforms like n8n and Zapier. Skilled in Python, TensorFlow, PyTorch, and LangChain, I specialize in developing intelligent systems across NLP, computer vision, and predictive analytics. I’m deeply passionate about creating scalable AI applications, optimizing machine learning models, and automating complex workflows to solve impactful problems. With a strong interest in the intersection of AI and human-centered innovation, I continuously seek opportunities to collaborate, learn, and contribute to cutting-edge AI projects.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahkhushi28k&label=Profile%20views&color=0e75b6&style=flat" alt="shahkhushi28k" /> </p>
 
